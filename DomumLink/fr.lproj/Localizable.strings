@@ -1,0 +1,275 @@
+/*
+ Localizable.strings
+ DomumLink
+ 
+ Created by iOS Dev on 8/9/15.
+ Copyright (c) 2015 YulianMobile All rights reserved.
+ */
+
+/*
+ * Tenant App
+ */
+
+// Side Menu
+Tenant = "Locataire";
+Home = "Accueil";
+Issues = "Problèmes";
+BuildingInfo = "Renseignements sur l'immeuble";
+LogOut = "Se déconnecter";
+
+// Personal Setting Page
+PersonalSettings = "Paramètres personnels";
+Language = "Langue";
+Email = "Courriel";
+MobileNumber = "Numéro de portable";
+SAVE = "SAUVEGARDER";
+CANCEL = "ANNULER";
+Language = "Langue";
+
+// Building Info Page
+EmergencyContacts = "Contacts d'urgence";
+BuildingSchedule = "Horaire";
+SwimmingPoolHours = "Heures de la piscine";
+Monday = "Lundi";
+Tuesday = "Mardi";
+Wednesday = "Mercredi";
+Thursday = "Jeudi";
+Friday = "Vendredi";
+Saturday = "Samedi";
+Sunday = "Dimanche";
+
+GarbageHours = "Heures des ordures";
+RecyclingHours = "Heures du recyclage";
+GymHours = " Heures de la salle de sport";
+
+// Issue Detail Page
+ISSUE = "PROBLÈME";
+Createdby = "Créé par";
+Createdon = "Créé le";
+General = "Général";
+Updates = "Mises à jour";
+Apt = "App";
+EnterYourMessageHere = "Entrez votre message ici";
+
+// Change Status Page
+ChangeStatus = "Modifier l'état";
+CancelIssue = "Annuler problème";
+CANCEL = "ANNULER";
+SUBMIT = "SOUMETTRE";
+
+// Issue Detail Page
+UpdateMeBy = "Me mettre à jour par";
+Email = "Courriel";
+SMS = "SMS";
+Call = "Appel";
+
+SelectCameraOption = "Sélectionnez l'option";
+TakePhoto = "Prendre photo";
+ChoosePhoto = "Photothèque";
+Cancel = "Annuler";
+
+// Create Tenant Issue Page
+CreateTenantIssue = "Signaler un problème (Locataire)";
+GeneralInformation = "Informations générales";
+T50 = "Veuillez fournir une description du problème que vous rencontrez. Tentez d'être clair et concis.";
+EnterDescriptionHere = "Décrivez votre problème";
+Note = "SVP noter que le locataire(s) sélectionné verra ce message.";
+SelectImages = "Choisir les images…";
+SelectCategory = "Choisir une catégorie";
+None = "Aucun";
+Next = "Suivant";
+
+CameraRoll = "Pellicule";
+
+// Category Page
+Category = "Catégorie";
+SelectCategory = "Choisir une catégorie...";
+
+Location = "Endroit";
+CreateIssue = "Signaler un problème";
+Updates = "Mises à jour";
+BACK = "RETOUR";
+FINISH = "SOUMETTRE";
+NEXT = "SUIVANT";
+
+IssueDescriptionIsARequiredField = "Description du problème est un champ requis!";
+CategoryIsARequiredField = "Catégorie est un champ requis!";
+DescMustBe10 = "La description doit contenir au minimum 10 caractères!";
+Done = "Soumettre";
+
+UNREAD = "NON LU";
+OPEN = "OUVERT";
+
+/*
+ * Employee App
+ */
+
+// Building Status Page
+BuildingStatus = "Aperçu de l'immeuble";
+Vacancy = "Vacance";
+UnresolvedIssues = "Problèmes non résolus";
+Apartment = "Appartement";
+Apartments = "Appartements";
+
+Parking = "Stat.";
+Storage = "Stock.";
+Normal = "Régulier";
+Serious = "Sérieux";
+Urgent = "Urgent";
+
+FLOOR = "ÉTAGE";
+
+HELP = "AIDE";
+Dismiss = "Fermer";
+TOBEASSESSED = "POUR ÉVALUATION";
+UNDERREPAIR = "EN REPARATION";
+OCCUPIED = "OCCUPÉ";
+TOBEREPAIRED = "À RÉPARER";
+VACANT = "DISPONIBLE";
+
+INFORMATION = "INFORMATION";
+Status = "État";
+ToBeAssessed = "PourÉvaluation";
+CurrentPrice = "Tarif";
+TENANTS = "LOCATAIRES";
+
+// Tenant Detail Page
+Tenant = "Locataire";
+Unknown = "Non précisé";
+SubmitAnIssue = "Soumettre un problème";
+LeaseInformation = "Renseignements sur la location";
+Building = "Immeuble";
+Apartment1 = "App.";
+LeaseStart = "Début du bail";
+LeaseEnd = "Échéance du bail";
+
+// Side Menu Page
+Tenants = "Locataires";
+
+// Personal Settings Page
+EasyMode = "Mode simple";
+
+// Issues Page
+d = "j";
+D = "J";
+NoMessagesToDisplay = "Aucun message à afficher";
+
+SystemGenerated = "Généré par le système";
+Internal = "Interne";
+NOLOCATIONSPECIFIED = "Aucun endroit spécifié";
+Employees = "Employés";
+
+ReportTenantIssue = "Signaler un problème concernant un locataire";
+ReportEmployeeIssue = "Signaler un problème concernant les employés";
+
+// Create Tenant Issue
+//CreateTenantIssue = "Create Tenant Issue";
+E73 = "Veuillez fournir une description du problème que vous rencontrez. Tentez d'être clair et concis.";
+
+// Select Category Page
+UnspecifiedLocation = "Endroit indéterminé";
+
+SelectBuilding = "Choisir l'immeuble...";
+DoesNotApplyToAFloor = "Ne s'applique pas à un étage";
+
+Unit = "Unité";
+SelectUnit = "Choisir l'unité...";
+
+// Create Issue Page
+SelectTenants = "Choisir le(s) destinataire(s) du locataire";
+Search = "Recherche";
+NotSignedUpToDomumLink = "Pas abonné à Domum Link";
+SignedUptoDomumLink = "Déjà abonné à Domum Link";
+AssignEmployees = "Assigner des employés à ce problème";
+NOTIFYEMPLOYEESBY = "AVISER LES EMPLOYÉS PAR";
+NOTIFYTENANTSBY = "AVISER LES LOCATAIRES PAR";
+
+CreateEmployeeIssue = "Signaler un problème (Interne)";
+
+// Lang Setting Page
+Done = "Soumettre";
+French = "Français";
+English = "English";
+
+// Date
+Jan = "janv.";
+Feb = "févr.";
+Mar = "mars";
+Apr = "avril";
+May = "mai";
+Jun = "juin";
+Jul = "juil.";
+Aug = "août";
+Sep = "sept.";
+Oct = "oct.";
+Nov = "nov.";
+Dec = "déc.";
+
+SelectLocation = "Choisir l'endroit...";
+
+Floor = "Étage";
+
+Issue = "Problème";
+
+Me = "Moi";
+
+Support = "Soutien";
+
+EditRecipients = "Modifier les récipiendaires";
+EditAssignees = "Modifier les Cessionnaires";
+EditRecipients1 = "Modifier les cessionnaires";
+SaveChanges = "Sauvegarder";
+
+ReportProgress = "Rapporter les progrès";
+Resolved = "Résoudre";
+CancelIssue = "Annuler Problème";
+
+MessageType = "Type de message:";
+Employee = "Employé";
+EnterYourMsgToTenantsHere = "Ce texte sera visible par les locataires";
+ThisTextWillBeVisibleToEmployeesOnly = "Ce texte sera seulement visible par les employés";
+PleaseSelectAtLeastOneTenant = "Veuillez choisir le(s) destinataire(s)";
+PleaseSelectAtLeastOneEmployee = "Veuillez choisir le(s) destinataire(s)";
+YouHaveReachedPictureUploadLimit = "Malheureusement, vous ne pouvez pas ajouter plus d'images";
+
+Male = "Homme";
+Female = "Femme";
+Assignees = "Cessionnaire(s)";
+
+PleaseSelectBuilding = "SVP choisir un immeuble!";
+PleaseSelectApartment = "SVP choisir un appartement!";
+
+Delayed = "Différé";
+Completed = "Complété";
+
+Reopen = "Rouvrir";
+
+TimeZone = "Fuseau Horaire";
+
+Uploading = "Téléchargement";
+
+YouHaveNoOpenIssues = "Il n’y a aucun problème à afficher";
+
+EmergencyCall = "En cas d'urgence, composez le 9-1-1 immédiatement.";
+
+// Message Detail Page
+MessageDetails = "DÉTAILS DU MESSAGE";
+VisibleOneTenantAndEmployee = "Visible pour les employés et un locataire";
+VisibleTenantsAndEmployees = "Visible aux locataires et les employés";
+VisibleEmployeesOnly = "Visible uniquement aux employés";
+EmployeeReadStatus = "Lecture par employée:";
+TenantReadStatus = "Lecture par locataire:";
+
+// Tenant Detail Page
+CarDetails = "Détails sur la voiture";
+TenantComments = "Commentaire";
+CarMake = "Marque";
+CarModel = "Modèle";
+CarColor = "Couleur";
+LicensePlateNumber = "Immatriculation";
+CarType = "Catégorie";
+ParkingStickerNumber = "Étiquette";
+UnRead = "non lu";
+
+Mobile = "Cellulaire";
+Home = "Maison";

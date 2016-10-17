@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[IssueChangeStatusDetailVC tableView:didSelectRowAtIndexPath:]:IssueChangeStatusDetailVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "oldSelectedIndexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingDetailsCell collectionView:cellForItemAtIndexPath:]:BuildingDetailsCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssueReadStatusViewController tableView:cellForRowAtIndexPath:]:IssueReadStatusViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LoginViewController connection:didReceiveResponse:]:LoginViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "cookie.value">
+            </PersistentString>
+            <PersistentString
+               value = "cookie.name">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingDetailsViewController tableView:heightForRowAtIndexPath:]:BuildingDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SelectTenantsVC tableView:cellForSubRowAtIndexPath:]:SelectTenantsVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tenant[@&quot;Name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssuesViewController viewDidLoad]:IssuesViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingsViewController tableView:cellForRowAtIndexPath:]:BuildingsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "building[@&quot;BuildingImage&quot;][@&quot;Url&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingBasicInfoModalViewController connectionDidFinishLoading:]:BuildingBasicInfoModalViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SelectTenantsVC tableView:cellForRowAtIndexPath:]:SelectTenantsVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "buildingTenantArray[indexPath.section][indexPath.row][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingDetailsCell collectionView:numberOfItemsInSection:]:BuildingDetailsCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_unitArray">
+            </PersistentString>
+            <PersistentString
+               value = "self.floorArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssueChangeStatusDetailVC viewDidLayoutSubviews]:IssueChangeStatusDetailVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[changeStatusDetailTableView rowHeight]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[BuildingDetailsCell awakeFromNib]:BuildingDetailsCell.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.floorArray.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TenantDetailsViewController connectionDidFinishLoading:]:TenantDetailsViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tenantDict[@&quot;DateOfBirth&quot;] ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssueManagerTenantsTabViewController tableView:cellForRowAtIndexPath:]:IssueManagerTenantsTabViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tenantArray">
+            </PersistentString>
+            <PersistentString
+               value = "cell.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssuesVC tableView:cellForRowAtIndexPath:]:IssuesVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "issue[@&quot;Description&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[GET_VALIDATED_STRING(issue[@&quot;Description&quot;], @&quot;&quot;) stringByConvertingHTMLToPlainText]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssuesViewController tableView:cellForRowAtIndexPath:]:IssuesViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSMakeRange(0, 7)">
+            </PersistentString>
+            <PersistentString
+               value = "cell.createdOnLabel.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IssueManagerTenantsTabViewController addRecipientsClicked:]:IssueManagerTenantsTabViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "tenantArray">
+            </PersistentString>
+            <PersistentString
+               value = "recipientsTableView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

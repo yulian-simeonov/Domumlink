@@ -1,0 +1,13 @@
+PODS:
+  - CCBottomRefreshControl (0.5.1):
+    - Masonry (~> 0.6.2)
+  - Masonry (0.6.3)
+
+DEPENDENCIES:
+  - CCBottomRefreshControl
+
+SPEC CHECKSUMS:
+  CCBottomRefreshControl: 57a596348855260f627ffc2b311328ed15b94877
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+
+COCOAPODS: 0.39.0

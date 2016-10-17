@@ -1,0 +1,269 @@
+/* 
+  Localizable.strings
+  DomumLink
+
+  Created by iOS Dev on 8/9/15.
+  Copyright (c) 2015 YulianMobile All rights reserved.
+*/
+
+// Side Menu
+Tenant = "Tenant";
+Home = "Home";
+Issues = "Issues";
+BuildingInfo = "Building Info";
+LogOut = "Log out";
+
+// Personal Setting Page
+PersonalSettings = "Personal Settings";
+Language = "Language";
+Email = "Email";
+MobileNumber = "Mobile Number";
+SAVE = "SAVE";
+CANCEL = "CANCEL";
+Language = "Language";
+
+// Building Info Page
+EmergencyContacts = "Emergency Contacts";
+BuildingSchedule = "Building Schedule";
+SwimmingPoolHours = "Swimming Pool Hours";
+Monday = "Monday";
+Tuesday = "Tuesday";
+Wednesday = "Wednesday";
+Thursday = "Thursday";
+Friday = "Friday";
+Saturday = "Saturday";
+Sunday = "Sunday";
+
+GarbageHours = "Garbage Hours";
+RecyclingHours = "Recycling Hours";
+GymHours = " Gym Hours";
+
+// Issue Detail Page
+ISSUE = "ISSUE";
+Createdby = "Created by";
+Createdon = "Created on";
+General = "General";
+Updates = "Updates";
+Apt = "Apt";
+EnterYourMessageHere = "Enter your Message here";
+
+// Change Status Page
+ChangeStatus = "Change Status";
+CancelIssue = "Cancel Issue";
+CANCEL = "CANCEL";
+SUBMIT = "SUBMIT";
+
+// Issue Detail Page
+UpdateMeBy = "Update Me By";
+Email = "Email";
+SMS = "SMS";
+Call = "Call";
+
+SelectCameraOption = "Select camera option";
+TakePhoto = "Take Photo";
+ChoosePhoto = "Choose Photo";
+Cancel = "Cancel";
+
+// Create Tenant Issue Page
+CreateTenantIssue = "Create Tenant Issue";
+GeneralInformation = "General Information";
+T50 = "Please provide a description of the issue you are having. Try to be clear and concise.";
+EnterDescriptionHere = "Enter description here…";
+Note = "Note: Selected tenant(s) will see this message.";
+SelectImages = "Select Images";
+SelectCategory = "Select Category";
+None = "None";
+Next = "Next";
+
+CameraRoll = "Camera Roll";
+
+// Category Page
+Category = "Category";
+SelectCategory = "Select Category...";
+
+Location = "Location";
+CreateIssue = "Create Issue";
+Updates = "Updates";
+BACK = "BACK";
+FINISH = "FINISH";
+NEXT = "NEXT";
+
+IssueDescriptionIsARequiredField = "Issue description is a required field!";
+CategoryIsARequiredField = "Category is a required field!";
+DescMustBe10 = "Description must be at least 10 characters!";
+Done = "Done";
+
+UNREAD = "UNREAD";
+OPEN = "OPEN";
+
+/*
+ * Employee App
+ */
+
+// Building Status Page
+BuildingStatus = "Building Status";
+Vacancy = "Vacancy";
+UnresolvedIssues = "Unresolved Issues";
+Apartment = "Apartment";
+Parking = "Parking";
+Storage = "Storage";
+Normal = "Normal";
+Serious = "Serious";
+Urgent = "Urgent";
+
+FLOOR = "FLOOR";
+
+HELP = "HELP";
+Dismiss = "Dismiss";
+TOBEASSESSED = "TO BE ASSESSED";
+UNDERREPAIR = "UNDER REPAIR";
+OCCUPIED = "OCCUPIED";
+TOBEREPAIRED = "TO BE REPAIRED";
+VACANT = "VACANT";
+
+INFORMATION = "INFORMATION";
+Status = "Status";
+ToBeAssessed = "ToBeAssessed";
+CurrentPrice = "Current Price";
+TENANTS = "TENANTS";
+
+// Tenant Detail Page
+Tenant = "Tenant";
+Unknown = "Unknown";
+SubmitAnIssue = "Submit an Issue";
+LeaseInformation = "Lease Information";
+Building = "Building";
+Apartment1 = "Apartment";
+LeaseStart = "Lease Start";
+LeaseEnd = "Lease End";
+
+// Side Menu Page
+Tenants = "Tenants";
+
+// Personal Settings Page
+EasyMode = "Easy Mode";
+
+// Issues Page
+d = "d";
+D = "D";
+NoMessagesToDisplay = "No Messages to display";
+
+SystemGenerated = "System Generated";
+Internal = "Internal";
+NOLOCATIONSPECIFIED = "NO LOCATION SPECIFIED";
+Employees = "Employees";
+
+ReportTenantIssue = "Report Tenant Issue";
+ReportEmployeeIssue = "Report Employee Issue";
+
+// Create Tenant Issue
+//CreateTenantIssue = "Create Tenant Issue";
+E73 = "Please provide a description of the issue you are having. Try to be clear and concise.";
+
+// Select Category Page
+UnspecifiedLocation = "Unspecified Location";
+
+SelectBuilding = "Select Building...";
+DoesNotApplyToAFloor = "Does Not Apply To a Floor";
+
+Unit = "Unit";
+SelectUnit = "Select Unit...";
+
+// Create Issue Page
+SelectTenants = "Select Tenants";
+Search = "Search";
+NotSignedUpToDomumLink = "Not Signed Up To Domum Link";
+SignedUptoDomumLink = "Signed Up to Domum Link";
+AssignEmployees = "Assign Employees";
+NOTIFYEMPLOYEESBY = "NOTIFY EMPLOYEES BY";
+NOTIFYTENANTSBY = "NOTIFY TENANTS BY";
+
+CreateEmployeeIssue = "Create Employee Issue";
+
+// Lang Setting Page
+Done = "Done";
+French = "French";
+English = "English";
+
+// Date
+Jan = "Jan";
+Feb = "Feb";
+Mar = "Mar";
+Apr = "Apr";
+May = "May";
+Jun = "Jun";
+Jul = "Jul";
+Aug = "Aug";
+Sep = "Sep";
+Oct = "Oct";
+Nov = "Nov";
+Dec = "Dec";
+
+SelectLocation = "Select Location...";
+
+Floor = "Floor";
+
+Issue = "Issue";
+
+Me = "Me";
+
+Support = "Support";
+
+EditRecipients = "Edit Recipients";
+EditAssignees = "Edit Assignees";
+EditRecipients1 = "Edit Recipients";
+SaveChanges = "Save Changes";
+
+ReportProgress = "Report Progress";
+Resolved = "Resolved";
+CancelIssue = "Cancel Issue";
+
+MessageType = "Message Type:";
+Employee = "Employee";
+EnterYourMsgToTenantsHere = "Enter your message to TENANTS here";
+ThisTextWillBeVisibleToEmployeesOnly = "This text will be visible to employees only";
+PleaseSelectAtLeastOneTenant = "Please select at least one tenant";
+PleaseSelectAtLeastOneEmployee = "Please select at least one  employee";
+YouHaveReachedPictureUploadLimit = "You have already reached the picture upload limit";
+
+Male = "Male";
+Female = "Female";
+Assignees = "Assignees";
+
+PleaseSelectBuilding = "Please select building!";
+PleaseSelectApartment = "Please select a apartment!";
+
+Delayed = "Delayed";
+Completed = "Completed";
+
+Reopen = "Reopen";
+
+TimeZone = "Time Zone";
+
+Uploading = "Uploading";
+
+YouHaveNoOpenIssues = "You have no open issues.";
+
+EmergencyCall = "In an emergency, call 9-1-1 immediately.";
+
+// Message Detail Page
+MessageDetails = "MESSAGE DETAILS";
+VisibleOneTenantAndEmployee = "Visible to employees and one tenant";
+VisibleTenantsAndEmployees = "Visible to tenants and employees";
+VisibleEmployeesOnly = "Visible to employees only";
+EmployeeReadStatus = "Employee Read status:";
+TenantReadStatus = "Tenant Read status:";
+
+// Tenant Detail Page
+CarDetails = "Car Details";
+TenantComments = "Tenant Comments";
+CarMake = "Car Make";
+CarModel = "Car Model";
+CarColor = "Color";
+LicensePlateNumber = "License Plate";
+CarType = "Car Type";
+ParkingStickerNumber = "Sticker #";
+UnRead = "unread";
+
+Mobile = "Mobile";
+Home = "Home";

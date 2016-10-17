@@ -1,0 +1,720 @@
+
+/* Class = "UILabel"; text = "Not Signed Up to Domum Link"; ObjectID = "0AH-uT-JZU"; */
+"0AH-uT-JZU.text" = "Not Signed Up to Domum Link";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "0EJ-0a-eC6"; */
+"0EJ-0a-eC6.text" = "Call";
+
+/* Class = "UIButton"; normalTitle = " NEXT"; ObjectID = "0g6-Oc-I3C"; */
+"0g6-Oc-I3C.normalTitle" = " NEXT";
+
+/* Class = "UILabel"; text = "Lease Start"; ObjectID = "0j2-61-N6E"; */
+"0j2-61-N6E.text" = "Lease Start";
+
+/* Class = "UILabel"; text = "Normal"; ObjectID = "1HR-zy-3lU"; */
+"1HR-zy-3lU.text" = "Normal";
+
+/* Class = "UILabel"; text = "   OPEN Read by Management"; ObjectID = "1Rf-Jl-DuN"; */
+"1Rf-Jl-DuN.text" = "   OPEN Read by Management";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "1dw-W3-yuG"; */
+"1dw-W3-yuG.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "1eY-Ty-FhB"; */
+"1eY-Ty-FhB.text" = "Call";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "1rm-tO-8Gv"; */
+"1rm-tO-8Gv.normalTitle" = "LOGIN";
+
+/* Class = "UIButton"; normalTitle = "OPEN Work in Progress"; ObjectID = "1w4-0N-yVw"; */
+"1w4-0N-yVw.normalTitle" = "OPEN Work in Progress";
+
+/* Class = "UILabel"; text = "Easy Mode"; ObjectID = "2Jz-cS-FhD"; */
+"2Jz-cS-FhD.text" = "Easy Mode";
+
+/* Class = "UILabel"; text = "ISSUE # 2656-004-0001"; ObjectID = "37e-hS-rrZ"; */
+"37e-hS-rrZ.text" = "ISSUE # 2656-004-0001";
+
+/* Class = "UIButton"; normalTitle = "OPEN Work in Progress"; ObjectID = "3ZH-BK-PAZ"; */
+"3ZH-BK-PAZ.normalTitle" = "OPEN Work in Progress";
+
+/* Class = "UILabel"; text = "Notify me to"; ObjectID = "3bT-wx-dXW"; */
+"3bT-wx-dXW.text" = "Notify me to";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "3dR-eN-sNc"; */
+"3dR-eN-sNc.text" = "Jonathan Moore (#109)";
+
+/* Class = "UIButton"; normalTitle = "SMS"; ObjectID = "3h7-KD-UmN"; */
+"3h7-KD-UmN.normalTitle" = "SMS";
+
+/* Class = "UITextField"; placeholder = "Enter your Message here"; ObjectID = "48Q-Hy-Kqh"; */
+"48Q-Hy-Kqh.placeholder" = "Enter your Message here";
+
+/* Class = "UILabel"; text = "Select building..."; ObjectID = "4Ou-TO-j1Z"; */
+"4Ou-TO-j1Z.text" = "Select building...";
+
+/* Class = "UILabel"; text = "Unresolved Issues"; ObjectID = "4Xl-08-5Xl"; */
+"4Xl-08-5Xl.text" = "Unresolved Issues";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "4qV-11-dtY"; */
+"4qV-11-dtY.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Appliances"; ObjectID = "4wj-Z7-IRg"; */
+"4wj-Z7-IRg.normalTitle" = "Appliances";
+
+/* Class = "UILabel"; text = "Jon Smith"; ObjectID = "5Ac-ni-WMf"; */
+"5Ac-ni-WMf.text" = "Jon Smith";
+
+/* Class = "UILabel"; text = "4444 Village Drive, Laval, Montreal CA"; ObjectID = "5hM-Y4-eq0"; */
+"5hM-Y4-eq0.text" = "4444 Village Drive, Laval, Montreal CA";
+
+/* Class = "UINavigationItem"; title = "Change Password"; ObjectID = "5mm-Za-tgC"; */
+"5mm-Za-tgC.title" = "Change Password";
+
+/* Class = "UILabel"; text = "Notify me from"; ObjectID = "6fg-7o-0TH"; */
+"6fg-7o-0TH.text" = "Notify me from";
+
+/* Class = "UILabel"; text = "$1210 (CAD)"; ObjectID = "79u-IH-o1R"; */
+"79u-IH-o1R.text" = "$1210 (CAD)";
+
+/* Class = "UIButton"; normalTitle = "Building Info"; ObjectID = "79u-gb-smS"; */
+"79u-gb-smS.normalTitle" = "Building Info";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "7mw-Sz-d8p"; */
+"7mw-Sz-d8p.text" = "SMS";
+
+/* Class = "UILabel"; text = "Helen Gold, Employee"; ObjectID = "7nQ-Sg-FB6"; */
+"7nQ-Sg-FB6.text" = "Helen Gold, Employee";
+
+/* Class = "UILabel"; text = "Updates"; ObjectID = "7qX-4J-KuD"; */
+"7qX-4J-KuD.text" = "Updates";
+
+/* Class = "UILabel"; text = "Tenant"; ObjectID = "7t2-FE-5Xa"; */
+"7t2-FE-5Xa.text" = "Tenant";
+
+/* Class = "UIButton"; normalTitle = " NEXT"; ObjectID = "8oy-vw-I10"; */
+"8oy-vw-I10.normalTitle" = " NEXT";
+
+/* Class = "UILabel"; text = "+151400000000"; ObjectID = "8tu-66-9aN"; */
+"8tu-66-9aN.text" = "+151400000000";
+
+/* Class = "UILabel"; text = "TENANTS"; ObjectID = "9fP-Pl-XsG"; */
+"9fP-Pl-XsG.text" = "TENANTS";
+
+/* Class = "UILabel"; text = "1:53 PM"; ObjectID = "9n2-LD-DjL"; */
+"9n2-LD-DjL.text" = "1:53 PM";
+
+/* Class = "UILabel"; text = "Message Type:"; ObjectID = "AKE-ZK-hsd"; */
+"AKE-ZK-hsd.text" = "Message Type:";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "B93-Fj-jek"; */
+"B93-Fj-jek.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "BGQ-qS-NB9"; */
+"BGQ-qS-NB9.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Bjz-Sz-HJj"; */
+"Bjz-Sz-HJj.text" = "Email";
+
+/* Class = "UILabel"; text = "8:00 AM"; ObjectID = "Bpg-qC-iHr"; */
+"Bpg-qC-iHr.text" = "8:00 AM";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "Bzi-pB-Xu7"; */
+"Bzi-pB-Xu7.text" = "English";
+
+/* Class = "UIButton"; normalTitle = "  Log out"; ObjectID = "C6b-os-kt6"; */
+"C6b-os-kt6.normalTitle" = "  Log out";
+
+/* Class = "UILabel"; text = "Tenants"; ObjectID = "CKd-VT-KhA"; */
+"CKd-VT-KhA.text" = "Tenants";
+
+/* Class = "UIButton"; normalTitle = " NEXT"; ObjectID = "Clc-dS-TQ8"; */
+"Clc-dS-TQ8.normalTitle" = " NEXT";
+
+/* Class = "UILabel"; text = "System Generated"; ObjectID = "Co5-8x-Aab"; */
+"Co5-8x-Aab.text" = "System Generated";
+
+/* Class = "UILabel"; text = "Lease Information"; ObjectID = "D7v-P8-yQs"; */
+"D7v-P8-yQs.text" = "Lease Information";
+
+/* Class = "UILabel"; text = "Tenants"; ObjectID = "DAf-oE-ieU"; */
+"DAf-oE-ieU.text" = "Tenants";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "DE7-kx-bhs"; */
+"DE7-kx-bhs.text" = "Call";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "DUo-g6-Cxy"; */
+"DUo-g6-Cxy.text" = "Jonathan Moore (#109)";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "DmV-go-egg"; */
+"DmV-go-egg.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "DxW-X7-PKl"; */
+"DxW-X7-PKl.text" = "Language";
+
+/* Class = "UILabel"; text = "Emergency Contacts"; ObjectID = "E7G-CK-bib"; */
+"E7G-CK-bib.text" = "Emergency Contacts";
+
+/* Class = "UILabel"; text = "Oct 01, 3:44 PM"; ObjectID = "EqH-OG-604"; */
+"EqH-OG-604.text" = "Oct 01, 3:44 PM";
+
+/* Class = "UILabel"; text = "Samantha Brown"; ObjectID = "FaC-gC-O1z"; */
+"FaC-gC-O1z.text" = "Samantha Brown";
+
+/* Class = "UILabel"; text = "Note: Selected tenant(s) will see this message."; ObjectID = "Fwb-hJ-UZ3"; */
+"Fwb-hJ-UZ3.text" = "Note: Selected tenant(s) will see this message.";
+
+/* Class = "UILabel"; text = "Test Building (2)"; ObjectID = "Ggs-nN-2kh"; */
+"Ggs-nN-2kh.text" = "Test Building (2)";
+
+/* Class = "UILabel"; text = "ISSUE # 2656-004-0001"; ObjectID = "Gmg-cq-iqZ"; */
+"Gmg-cq-iqZ.text" = "ISSUE # 2656-004-0001";
+
+/* Class = "UILabel"; text = "NOTIFY EMPLOYEES BY"; ObjectID = "GxT-0Z-3wv"; */
+"GxT-0Z-3wv.text" = "NOTIFY EMPLOYEES BY";
+
+/* Class = "UISearchBar"; placeholder = "Search"; ObjectID = "H6Z-Od-E39"; */
+"H6Z-Od-E39.placeholder" = "Search";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HGj-o6-uzB"; */
+"HGj-o6-uzB.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Mobile or Home Phone Number"; ObjectID = "HPD-sy-Xan"; */
+"HPD-sy-Xan.placeholder" = "Mobile or Home Phone Number";
+
+/* Class = "UILabel"; text = "Ready"; ObjectID = "I6y-9B-20i"; */
+"I6y-9B-20i.text" = "Ready";
+
+/* Class = "UIButton"; normalTitle = "Submit an Issue"; ObjectID = "IOH-D2-btc"; */
+"IOH-D2-btc.normalTitle" = "Submit an Issue";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "Ie3-au-Y00"; */
+"Ie3-au-Y00.text" = "SMS";
+
+/* Class = "UILabel"; text = "Camera Roll"; ObjectID = "IeQ-Ce-EIT"; */
+"IeQ-Ce-EIT.text" = "Camera Roll";
+
+/* Class = "UILabel"; text = "Current Password"; ObjectID = "IiN-NR-HMC"; */
+"IiN-NR-HMC.text" = "Current Password";
+
+/* Class = "UILabel"; text = "Building"; ObjectID = "IlF-Wf-IzC"; */
+"IlF-Wf-IzC.text" = "Building";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "IsB-RS-cqh"; */
+"IsB-RS-cqh.text" = "Jonathan Moore (#109)";
+
+/* Class = "UILabel"; text = "NO LOCATION SPECIFIED"; ObjectID = "Iwh-u0-Oxm"; */
+"Iwh-u0-Oxm.text" = "NO LOCATION SPECIFIED";
+
+/* Class = "UILabel"; text = "II Villaggio"; ObjectID = "J49-iI-c1k"; */
+"J49-iI-c1k.text" = "II Villaggio";
+
+/* Class = "UILabel"; text = "Report Tenant Issue"; ObjectID = "JAh-we-hV8"; */
+"JAh-we-hV8.text" = "Report Tenant Issue";
+
+/* Class = "UILabel"; text = "Benie Towsend"; ObjectID = "KOm-3u-zqa"; */
+"KOm-3u-zqa.text" = "Benie Towsend";
+
+/* Class = "UILabel"; text = "Capri Soleil - 1st Floor, Sutie No. 3, Montreal"; ObjectID = "Kcb-NC-LX4"; */
+"Kcb-NC-LX4.text" = "Capri Soleil - 1st Floor, Sutie No. 3, Montreal";
+
+/* Class = "UITextView"; text = "dfasdf"; ObjectID = "Kj8-Bo-9i2"; */
+"Kj8-Bo-9i2.text" = "dfasdf";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "KrW-VA-Wcz"; */
+"KrW-VA-Wcz.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "L0w-mF-cwW"; */
+"L0w-mF-cwW.text" = "SMS";
+
+/* Class = "UILabel"; text = "October 01"; ObjectID = "LRg-Vr-CXf"; */
+"LRg-Vr-CXf.text" = "October 01";
+
+/* Class = "UIButton"; normalTitle = "Phone Call"; ObjectID = "LTn-xa-AXm"; */
+"LTn-xa-AXm.normalTitle" = "Phone Call";
+
+/* Class = "UILabel"; text = "Issue # 2453 029 0507"; ObjectID = "LZR-bO-30p"; */
+"LZR-bO-30p.text" = "Issue # 2453 029 0507";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "Lcd-lf-G9V"; */
+"Lcd-lf-G9V.text" = "1";
+
+/* Class = "UILabel"; text = "1:53 PM"; ObjectID = "Ld8-cZ-6nV"; */
+"Ld8-cZ-6nV.text" = "1:53 PM";
+
+/* Class = "UILabel"; text = "123, King Street, Montreal, Canada 45545"; ObjectID = "LjH-8M-Brw"; */
+"LjH-8M-Brw.text" = "123, King Street, Montreal, Canada 45545";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "M4m-aa-EKH"; */
+"M4m-aa-EKH.text" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "M4m-q9-Qsj"; */
+"M4m-q9-Qsj.text" = "Status";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "MPc-F5-Pg9"; */
+"MPc-F5-Pg9.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "May 04 03:42 AM"; ObjectID = "MZi-KI-nfO"; */
+"MZi-KI-nfO.text" = "May 04 03:42 AM";
+
+/* Class = "UILabel"; text = "UPDATE ME BY"; ObjectID = "MaL-di-5XH"; */
+"MaL-di-5XH.text" = "UPDATE ME BY";
+
+/* Class = "UILabel"; text = "Serious"; ObjectID = "MvL-HS-iXm"; */
+"MvL-HS-iXm.text" = "Serious";
+
+/* Class = "UILabel"; text = "Mobile Number"; ObjectID = "NNL-s6-PrK"; */
+"NNL-s6-PrK.text" = "Mobile Number";
+
+/* Class = "UILabel"; text = "4444 Village Drive, Laval"; ObjectID = "NP6-2A-A8C"; */
+"NP6-2A-A8C.text" = "4444 Village Drive, Laval";
+
+/* Class = "UIButton"; normalTitle = " Appliances"; ObjectID = "OTL-nX-i1l"; */
+"OTL-nX-i1l.normalTitle" = " Appliances";
+
+/* Class = "UILabel"; text = "Please enter your mobile or home phone number in order to proceed with activation."; ObjectID = "Ovb-Ai-Iuq"; */
+"Ovb-Ai-Iuq.text" = "Please enter your mobile or home phone number in order to proceed with activation.";
+
+/* Class = "UIButton"; normalTitle = "Building Status"; ObjectID = "OxD-Tx-Hyx"; */
+"OxD-Tx-Hyx.normalTitle" = "Building Status";
+
+/* Class = "UILabel"; text = "29"; ObjectID = "Oyn-tc-0UV"; */
+"Oyn-tc-0UV.text" = "29";
+
+/* Class = "UILabel"; text = "Helen Gold, Employee"; ObjectID = "PVU-cP-7XU"; */
+"PVU-cP-7XU.text" = "Helen Gold, Employee";
+
+/* Class = "UILabel"; text = "Contact me anytime (24/7)"; ObjectID = "PcJ-n7-YEB"; */
+"PcJ-n7-YEB.text" = "Contact me anytime (24/7)";
+
+/* Class = "UILabel"; text = "4444 Village Drive, Laval"; ObjectID = "PzJ-au-iqW"; */
+"PzJ-au-iqW.text" = "4444 Village Drive, Laval";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "QeA-Cf-n7B"; */
+"QeA-Cf-n7B.text" = "Title";
+
+/* Class = "UILabel"; text = "Created on"; ObjectID = "Qsb-Yk-duh"; */
+"Qsb-Yk-duh.text" = "Created on";
+
+/* Class = "UILabel"; text = "5d"; ObjectID = "RNq-6J-QoP"; */
+"RNq-6J-QoP.text" = "5d";
+
+/* Class = "UILabel"; text = "Read"; ObjectID = "RP4-Pg-MBb"; */
+"RP4-Pg-MBb.text" = "Read";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "RS8-Ql-Y1Q"; */
+"RS8-Ql-Y1Q.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "SU5-lL-WgT"; */
+"SU5-lL-WgT.title" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Activate my Account"; ObjectID = "Sg0-dR-2Kn"; */
+"Sg0-dR-2Kn.normalTitle" = "Activate my Account";
+
+/* Class = "UIViewController"; title = "Personal Settings"; ObjectID = "Srx-by-DZN"; */
+"Srx-by-DZN.title" = "Personal Settings";
+
+/* Class = "UIButton"; normalTitle = " FINISH"; ObjectID = "T68-JT-mbB"; */
+"T68-JT-mbB.normalTitle" = " FINISH";
+
+/* Class = "UILabel"; text = "Created by"; ObjectID = "TFh-g4-DHf"; */
+"TFh-g4-DHf.text" = "Created by";
+
+/* Class = "UIButton"; normalTitle = "  Dismiss"; ObjectID = "THU-5q-3Do"; */
+"THU-5q-3Do.normalTitle" = "  Dismiss";
+
+/* Class = "UILabel"; text = "Update Me By"; ObjectID = "TKy-Pg-I6r"; */
+"TKy-Pg-I6r.text" = "Update Me By";
+
+/* Class = "UILabel"; text = "Created by"; ObjectID = "TO0-d9-F0c"; */
+"TO0-d9-F0c.text" = "Created by";
+
+/* Class = "UILabel"; text = "Urgent"; ObjectID = "Tfl-Mn-dDV"; */
+"Tfl-Mn-dDV.text" = "Urgent";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "Tlj-2q-uLY"; */
+"Tlj-2q-uLY.text" = "New Password";
+
+/* Class = "UIButton"; normalTitle = "START OVER"; ObjectID = "Tn3-tJ-KfG"; */
+"Tn3-tJ-KfG.normalTitle" = "START OVER";
+
+/* Class = "UILabel"; text = "Change Password"; ObjectID = "UGw-1W-G3C"; */
+"UGw-1W-G3C.text" = "Change Password";
+
+/* Class = "UILabel"; text = "Employees (0)"; ObjectID = "UHc-7g-dcS"; */
+"UHc-7g-dcS.text" = "Employees (0)";
+
+/* Class = "UILabel"; text = "Test Building (2)"; ObjectID = "UwV-e2-KLx"; */
+"UwV-e2-KLx.text" = "Test Building (2)";
+
+/* Class = "UILabel"; text = "Notify me from"; ObjectID = "VcK-pc-dv2"; */
+"VcK-pc-dv2.text" = "Notify me from";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "Vsa-cx-EnX"; */
+"Vsa-cx-EnX.text" = "Jonathan Moore (#109)";
+
+/* Class = "UILabel"; text = "Assign Employees (0)"; ObjectID = "W50-x7-C65"; */
+"W50-x7-C65.text" = "Assign Employees (0)";
+
+/* Class = "UILabel"; text = "Test Building (2)"; ObjectID = "WA9-JJ-9n7"; */
+"WA9-JJ-9n7.text" = "Test Building (2)";
+
+/* Class = "UILabel"; text = "Report Employee Issue"; ObjectID = "WIH-Yx-7pe"; */
+"WIH-Yx-7pe.text" = "Report Employee Issue";
+
+/* Class = "UILabel"; text = "5d"; ObjectID = "X4e-eM-WZg"; */
+"X4e-eM-WZg.text" = "5d";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "X4o-MF-lgP"; */
+"X4o-MF-lgP.text" = "Title";
+
+/* Class = "UILabel"; text = "8:00 AM - 9:00 AM"; ObjectID = "XmB-EU-FcE"; */
+"XmB-EU-FcE.text" = "8:00 AM - 9:00 AM";
+
+/* Class = "UILabel"; text = "Rent payment is overdue."; ObjectID = "Xtp-Al-mNU"; */
+"Xtp-Al-mNU.text" = "Rent payment is overdue.";
+
+/* Class = "UILabel"; text = "manager.200@domumlink.ca"; ObjectID = "Xwu-Le-BXj"; */
+"Xwu-Le-BXj.text" = "manager.200@domumlink.ca";
+
+/* Class = "UILabel"; text = "Tenants"; ObjectID = "Y8B-FB-3VF"; */
+"Y8B-FB-3VF.text" = "Tenants";
+
+/* Class = "UILabel"; text = "Unspecified Location"; ObjectID = "Yc4-K4-HTH"; */
+"Yc4-K4-HTH.text" = "Unspecified Location";
+
+/* Class = "UILabel"; text = "1001"; ObjectID = "Z0z-z4-SZJ"; */
+"Z0z-z4-SZJ.text" = "1001";
+
+/* Class = "UILabel"; text = "Please select your activation method"; ObjectID = "Z1B-zq-bIs"; */
+"Z1B-zq-bIs.text" = "Please select your activation method";
+
+/* Class = "UILabel"; text = "+1514 0000 0000"; ObjectID = "ZG7-D4-LlS"; */
+"ZG7-D4-LlS.text" = "+1514 0000 0000";
+
+/* Class = "UILabel"; text = "Building Schedule"; ObjectID = "ZLe-TM-BnZ"; */
+"ZLe-TM-BnZ.text" = "Building Schedule";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "ZOQ-9l-A6D"; */
+"ZOQ-9l-A6D.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Apartment"; ObjectID = "Zih-hH-GhW"; */
+"Zih-hH-GhW.text" = "Apartment";
+
+/* Class = "UIButton"; normalTitle = "Tenant(s)"; ObjectID = "Zl7-YK-uvU"; */
+"Zl7-YK-uvU.normalTitle" = "Tenant(s)";
+
+/* Class = "UILabel"; text = "Test Building (2)"; ObjectID = "Zqp-kX-Jhj"; */
+"Zqp-kX-Jhj.text" = "Test Building (2)";
+
+/* Class = "UILabel"; text = "123, King Street, Montreal, Canada 45545"; ObjectID = "Zry-Bv-bwo"; */
+"Zry-Bv-bwo.text" = "123, King Street, Montreal, Canada 45545";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Zy4-Wc-PMg"; */
+"Zy4-Wc-PMg.text" = "0";
+
+/* Class = "UILabel"; text = "Current Price"; ObjectID = "aBh-X5-GeG"; */
+"aBh-X5-GeG.text" = "Current Price";
+
+/* Class = "UILabel"; text = "Due Date: Dec 01, 2014"; ObjectID = "ab8-wy-KUK"; */
+"ab8-wy-KUK.text" = "Due Date: Dec 01, 2014";
+
+/* Class = "UILabel"; text = "Oct 01, 3:44 PM"; ObjectID = "aba-zL-JdF"; */
+"aba-zL-JdF.text" = "Oct 01, 3:44 PM";
+
+/* Class = "UILabel"; text = "INFORMATION"; ObjectID = "agG-T8-uNP"; */
+"agG-T8-uNP.text" = "INFORMATION";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bVh-4w-hxu"; */
+"bVh-4w-hxu.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Mosaic Mansions"; ObjectID = "bXK-rB-81a"; */
+"bXK-rB-81a.text" = "Mosaic Mansions";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "ba8-id-wTQ"; */
+"ba8-id-wTQ.text" = "3";
+
+/* Class = "UILabel"; text = "Select Unit..."; ObjectID = "bnS-Fq-4Lz"; */
+"bnS-Fq-4Lz.text" = "Select Unit...";
+
+/* Class = "UILabel"; text = "Lease End"; ObjectID = "cEZ-eO-MF0"; */
+"cEZ-eO-MF0.text" = "Lease End";
+
+/* Class = "UILabel"; text = "Floor - 11"; ObjectID = "cNH-NG-ECY"; */
+"cNH-NG-ECY.text" = "Floor - 11";
+
+/* Class = "UIButton"; normalTitle = " BACK"; ObjectID = "clv-su-1dV"; */
+"clv-su-1dV.normalTitle" = " BACK";
+
+/* Class = "UILabel"; text = "10:45 am"; ObjectID = "cqf-CP-4l6"; */
+"cqf-CP-4l6.text" = "10:45 am";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "dWN-KA-K8F"; */
+"dWN-KA-K8F.text" = "OR";
+
+/* Class = "UILabel"; text = "Jun 01, 2014"; ObjectID = "dpR-20-cBS"; */
+"dpR-20-cBS.text" = "Jun 01, 2014";
+
+/* Class = "UILabel"; text = "+1 525 55 484 456"; ObjectID = "eac-Vj-Sof"; */
+"eac-Vj-Sof.text" = "+1 525 55 484 456";
+
+/* Class = "UILabel"; text = "No Messages to display"; ObjectID = "egA-oh-Vln"; */
+"egA-oh-Vln.text" = "No Messages to display";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "ehT-4q-Cah"; */
+"ehT-4q-Cah.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "General"; ObjectID = "exa-Uq-QVN"; */
+"exa-Uq-QVN.normalTitle" = "General";
+
+/* Class = "UILabel"; text = "Please provide a description of the issue you are having. Try to be clear and concise."; ObjectID = "fCx-gO-yig"; */
+"fCx-gO-yig.text" = "Please provide a description of the issue you are having. Try to be clear and concise.";
+
+/* Class = "UILabel"; text = "(0/5)"; ObjectID = "fJe-U2-bf7"; */
+"fJe-U2-bf7.text" = "(0/5)";
+
+/* Class = "UIButton"; normalTitle = " CANCEL"; ObjectID = "g2x-n8-01k"; */
+"g2x-n8-01k.normalTitle" = " CANCEL";
+
+/* Class = "UILabel"; text = "October 01"; ObjectID = "g3V-Uy-Bek"; */
+"g3V-Uy-Bek.text" = "October 01";
+
+/* Class = "UIButton"; normalTitle = "  OPEN READ BY MANAGEMENT"; ObjectID = "gLQ-Pv-aNZ"; */
+"gLQ-Pv-aNZ.normalTitle" = "  OPEN READ BY MANAGEMENT";
+
+/* Class = "UIButton"; normalTitle = "Completed"; ObjectID = "gLi-kT-INt"; */
+"gLi-kT-INt.normalTitle" = "Completed";
+
+/* Class = "UIButton"; normalTitle = " Building Info"; ObjectID = "gUh-oO-cfZ"; */
+"gUh-oO-cfZ.normalTitle" = " Building Info";
+
+/* Class = "UIButton"; normalTitle = "Updates"; ObjectID = "gaO-ee-nbD"; */
+"gaO-ee-nbD.normalTitle" = "Updates";
+
+/* Class = "UILabel"; text = "+1 525 55 487 888"; ObjectID = "goa-3E-o8n"; */
+"goa-3E-o8n.text" = "+1 525 55 487 888";
+
+/* Class = "UILabel"; text = "Does Not Apply To a Floor"; ObjectID = "gpd-8g-MIb"; */
+"gpd-8g-MIb.text" = "Does Not Apply To a Floor";
+
+/* Class = "UILabel"; text = "Cards"; ObjectID = "h3y-ek-90o"; */
+"h3y-ek-90o.text" = "Cards";
+
+/* Class = "UILabel"; text = "6:00 PM"; ObjectID = "hIm-Np-fhk"; */
+"hIm-Np-fhk.text" = "6:00 PM";
+
+/* Class = "UIButton"; normalTitle = " SUBMIT"; ObjectID = "hdA-gu-KIi"; */
+"hdA-gu-KIi.normalTitle" = " SUBMIT";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "i16-Kv-yrI"; */
+"i16-Kv-yrI.text" = "Email";
+
+/* Class = "UILabel"; text = "FLOOR 10"; ObjectID = "iJ0-9F-GAK"; */
+"iJ0-9F-GAK.text" = "FLOOR 10";
+
+/* Class = "UILabel"; text = "Storage"; ObjectID = "ia3-I5-O2I"; */
+"ia3-I5-O2I.text" = "Storage";
+
+/* Class = "UILabel"; text = "Signed Up to Domum Link"; ObjectID = "in9-sv-hSN"; */
+"in9-sv-hSN.text" = "Signed Up to Domum Link";
+
+/* Class = "UILabel"; text = "Rent Payment"; ObjectID = "j2j-QZ-k5v"; */
+"j2j-QZ-k5v.text" = "Rent Payment";
+
+/* Class = "UILabel"; text = "Monday"; ObjectID = "jmW-9w-GrL"; */
+"jmW-9w-GrL.text" = "Monday";
+
+/* Class = "UILabel"; text = "Building Manager"; ObjectID = "jqh-xu-Cf9"; */
+"jqh-xu-Cf9.text" = "Building Manager";
+
+/* Class = "UILabel"; text = "Benie Towsend"; ObjectID = "kNc-dT-99A"; */
+"kNc-dT-99A.text" = "Benie Towsend";
+
+/* Class = "UILabel"; text = "Vacancy"; ObjectID = "kV1-DS-ZRU"; */
+"kV1-DS-ZRU.text" = "Vacancy";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "kbX-lf-8iV"; */
+"kbX-lf-8iV.text" = "2";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "kyS-CF-aZ6"; */
+"kyS-CF-aZ6.text" = "5";
+
+/* Class = "UILabel"; text = "Tenants (0)"; ObjectID = "l4r-bB-em3"; */
+"l4r-bB-em3.text" = "Tenants (0)";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "lFa-Ob-PPN"; */
+"lFa-Ob-PPN.text" = "Email";
+
+/* Class = "UILabel"; text = "104 Apt, II Villagio"; ObjectID = "lIC-95-GF7"; */
+"lIC-95-GF7.text" = "104 Apt, II Villagio";
+
+/* Class = "UIButton"; normalTitle = "..."; ObjectID = "mQP-wu-sQa"; */
+"mQP-wu-sQa.normalTitle" = "...";
+
+/* Class = "UILabel"; text = "Congratulations"; ObjectID = "nMK-8L-5wJ"; */
+"nMK-8L-5wJ.text" = "Congratulations";
+
+/* Class = "UILabel"; text = "Created on"; ObjectID = "nh1-jn-7I8"; */
+"nh1-jn-7I8.text" = "Created on";
+
+/* Class = "UILabel"; text = "May 1, 2015"; ObjectID = "nrW-T0-fic"; */
+"nrW-T0-fic.text" = "May 1, 2015";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "o5t-uH-QYP"; */
+"o5t-uH-QYP.text" = "Call";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "oHO-kh-Dg0"; */
+"oHO-kh-Dg0.text" = "3";
+
+/* Class = "UIButton"; normalTitle = "  Upload Images"; ObjectID = "oXu-rg-LaE"; */
+"oXu-rg-LaE.normalTitle" = "  Upload Images";
+
+/* Class = "UILabel"; text = "NORMAL"; ObjectID = "pCV-sZ-ZzG"; */
+"pCV-sZ-ZzG.text" = "NORMAL";
+
+/* Class = "UIButton"; normalTitle = " BACK"; ObjectID = "pDQ-7B-4hW"; */
+"pDQ-7B-4hW.normalTitle" = " BACK";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "pIz-dN-EaP"; */
+"pIz-dN-EaP.text" = "Select Category";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pXk-mn-m6k"; */
+"pXk-mn-m6k.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Activation"; ObjectID = "qAy-p5-nHI"; */
+"qAy-p5-nHI.text" = "Activation";
+
+/* Class = "UIButton"; normalTitle = "Tenants"; ObjectID = "qcB-Zc-EiH"; */
+"qcB-Zc-EiH.normalTitle" = "Tenants";
+
+/* Class = "UILabel"; text = "System Generated"; ObjectID = "qcf-nM-bCw"; */
+"qcf-nM-bCw.text" = "System Generated";
+
+/* Class = "UITextField"; placeholder = "Enter your Message here"; ObjectID = "qjM-O0-f0T"; */
+"qjM-O0-f0T.placeholder" = "Enter your Message here";
+
+/* Class = "UILabel"; text = "Mosaic Mansions"; ObjectID = "rYZ-dO-3DF"; */
+"rYZ-dO-3DF.text" = "Mosaic Mansions";
+
+/* Class = "UILabel"; text = "Select Tenants (0)"; ObjectID = "sBW-IO-ELe"; */
+"sBW-IO-ELe.text" = "Select Tenants (0)";
+
+/* Class = "UILabel"; text = "Tenant"; ObjectID = "sBo-b3-S45"; */
+"sBo-b3-S45.text" = "Tenant";
+
+/* Class = "UILabel"; text = "UPDATE ME BY"; ObjectID = "sZh-be-5ve"; */
+"sZh-be-5ve.text" = "UPDATE ME BY";
+
+/* Class = "UIButton"; normalTitle = "Submit an Issue"; ObjectID = "sjg-TN-b7Q"; */
+"sjg-TN-b7Q.normalTitle" = "Submit an Issue";
+
+/* Class = "UIButton"; normalTitle = "Delayed"; ObjectID = "suv-qv-JOY"; */
+"suv-qv-JOY.normalTitle" = "Delayed";
+
+/* Class = "UIButton"; normalTitle = " BACK"; ObjectID = "t1D-uP-ubm"; */
+"t1D-uP-ubm.normalTitle" = " BACK";
+
+/* Class = "UIButton"; normalTitle = "Edit Recipients"; ObjectID = "t80-Qp-vB4"; */
+"t80-Qp-vB4.normalTitle" = "Edit Recipients";
+
+/* Class = "UIButton"; selectedTitle = "Save Changes"; ObjectID = "t80-Qp-vB4"; */
+"t80-Qp-vB4.selectedTitle" = "Save Changes";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "tKc-Ve-IBf"; */
+"tKc-Ve-IBf.text" = "Location";
+
+/* Class = "UIButton"; normalTitle = "1513123122"; ObjectID = "tZ4-x1-4hj"; */
+"tZ4-x1-4hj.normalTitle" = "1513123122";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "tnR-nu-I62"; */
+"tnR-nu-I62.text" = "Email";
+
+/* Class = "UILabel"; text = "Parking"; ObjectID = "u4F-eq-Zfd"; */
+"u4F-eq-Zfd.text" = "Parking";
+
+/* Class = "UILabel"; text = "Microwave will not heat up the food."; ObjectID = "uAS-yV-qqP"; */
+"uAS-yV-qqP.text" = "Microwave will not heat up the food.";
+
+/* Class = "UILabel"; text = "Petr Black"; ObjectID = "uVH-UK-5t3"; */
+"uVH-UK-5t3.text" = "Petr Black";
+
+/* Class = "UIButton"; normalTitle = "Assignees"; ObjectID = "vBS-M3-H7F"; */
+"vBS-M3-H7F.normalTitle" = "Assignees";
+
+/* Class = "UILabel"; text = "SMS"; ObjectID = "vIS-2s-xIl"; */
+"vIS-2s-xIl.text" = "SMS";
+
+/* Class = "UITextField"; text = "12345678"; ObjectID = "vKe-ge-vBJ"; */
+"vKe-ge-vBJ.text" = "12345678";
+
+/* Class = "UILabel"; text = "   OPEN Read by Management"; ObjectID = "vri-HA-ELX"; */
+"vri-HA-ELX.text" = "   OPEN Read by Management";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "w4a-rd-iR7"; */
+"w4a-rd-iR7.text" = "1";
+
+/* Class = "UILabel"; text = "Apartment"; ObjectID = "wGG-Rx-kZN"; */
+"wGG-Rx-kZN.text" = "Apartment";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "wYV-5O-7Ns"; */
+"wYV-5O-7Ns.text" = "Email";
+
+/* Class = "UILabel"; text = "EMPLOYEES"; ObjectID = "wkl-5G-cFV"; */
+"wkl-5G-cFV.text" = "EMPLOYEES";
+
+/* Class = "UILabel"; text = "Unit"; ObjectID = "wsN-Qp-sO6"; */
+"wsN-Qp-sO6.text" = "Unit";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "wv9-gT-DH4"; */
+"wv9-gT-DH4.text" = "Jonathan Moore (#109)";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "xEi-ge-qbB"; */
+"xEi-ge-qbB.text" = "4";
+
+/* Class = "UILabel"; text = "3"; ObjectID = "xJe-LF-vDg"; */
+"xJe-LF-vDg.text" = "3";
+
+/* Class = "UILabel"; text = "May 04 03:42 AM"; ObjectID = "xNE-8U-jpi"; */
+"xNE-8U-jpi.text" = "May 04 03:42 AM";
+
+/* Class = "UIButton"; normalTitle = "PROCEED"; ObjectID = "xNt-qs-rvb"; */
+"xNt-qs-rvb.normalTitle" = "PROCEED";
+
+/* Class = "UIButton"; normalTitle = "Edit Recipients"; ObjectID = "xcG-kL-gUF"; */
+"xcG-kL-gUF.normalTitle" = "Edit Recipients";
+
+/* Class = "UIButton"; selectedTitle = "Save Changes"; ObjectID = "xcG-kL-gUF"; */
+"xcG-kL-gUF.selectedTitle" = "Save Changes";
+
+/* Class = "UIButton"; normalTitle = "Issues"; ObjectID = "xeq-vT-gYW"; */
+"xeq-vT-gYW.normalTitle" = "Issues";
+
+/* Class = "UILabel"; text = "Jonathan Moore (#109)"; ObjectID = "xrX-r7-Lda"; */
+"xrX-r7-Lda.text" = "Jonathan Moore (#109)";
+
+/* Class = "UILabel"; text = "Your account has been Activated!"; ObjectID = "yM1-Hr-B7b"; */
+"yM1-Hr-B7b.text" = "Your account has been Activated!";
+
+/* Class = "UINavigationItem"; title = "Notification Timeframe"; ObjectID = "yMN-7n-qnw"; */
+"yMN-7n-qnw.title" = "Notification Timeframe";
+
+/* Class = "UILabel"; text = "Take Photo"; ObjectID = "yaT-4y-7zD"; */
+"yaT-4y-7zD.text" = "Take Photo";
+
+/* Class = "UILabel"; text = "Notify me to"; ObjectID = "z2l-io-wfc"; */
+"z2l-io-wfc.text" = "Notify me to";
+
+/* Class = "UIButton"; normalTitle = "Issues"; ObjectID = "z5p-dU-QBp"; */
+"z5p-dU-QBp.normalTitle" = "Issues";
+
+/* Class = "UILabel"; text = "Rent Payment"; ObjectID = "z6x-h1-Ywm"; */
+"z6x-h1-Ywm.text" = "Rent Payment";
+
+/* Class = "UINavigationItem"; title = "Personal Settings"; ObjectID = "zYv-a2-UOz"; */
+"zYv-a2-UOz.title" = "Personal Settings";
+
+/* Class = "UILabel"; text = "General Information"; ObjectID = "zav-zq-MXS"; */
+"zav-zq-MXS.text" = "General Information";
+
+/* Class = "UILabel"; text = "NOTIFY TENANTS BY"; ObjectID = "zhj-9G-I2I"; */
+"zhj-9G-I2I.text" = "NOTIFY TENANTS BY";
